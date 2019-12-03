@@ -1,0 +1,9 @@
+------Gem Hour------
+contains the following figures:
+    -square
+    -hexagon
+    -triangle
+    -diamond
+    -circle?
+    -octagon
+    -pentagon
